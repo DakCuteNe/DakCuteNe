@@ -1,34 +1,39 @@
-<h1 align="center">Hi 👋, I'm Dak</h1>
-<h3 align="center">A Newbie Coder / Developer in Unity 2D/3D</h3>
+<p align='center'><img src="resources/top.svg"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dakcute&label=Profile%20views&color=0e75b6&style=flat" alt="dakcute" /> </p>
+<p align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=435&height=35&lines=Welcome+to+my+profile;My+name+is+ByteCorum"></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dakcute" alt="dakcute" /></a> </p>
-
-- 🔭 I’m currently working on **Unity**
-
-- 🌱 I’m currently learning **C#, C++, JS,....**
-
-- 👯 I’m looking to collaborate on **Unity**
-
-- 🤝 I’m looking for help with **Unity**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DakCuteNe](https://github.com/DakCuteNe)
-
-- 💬 Ask me about **Unity**
-
-- 📫 How to reach me **duyn48893@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/sampballas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sampballas" height="30" width="40" /></a>
+<p align='center'>
+<a href="https://discordapp.com/users/905779194187882516/"><img src="resources/discord.svg" width="30" height="30" fill="#4493F8"></a>
+<a href="https://github.com/DakCuteNe"><img src="resources/github.svg" width="30" height="30" fill="#4493F8"></a>
+<a href="https://bytecorum.github.io/"><img src="resources/google.svg" width="30" height="30" fill="#4493F8"></a>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align='center'><img src="resources/line.svg" width="750" ></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakcute&show_icons=true&locale=en&layout=compact" alt="dakcute" /></p>
+<p align='center'><img src="https://github-widgetbox.vercel.app/api/profile?username=bytecorum&data=followers,repositories,stars,commits&theme=nautilus" width="800"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakcute&show_icons=true&locale=en" alt="dakcute" /></p>
+<p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,c,python,js,html,css,bash,json,mysql,powershell,lua,markdown&theme=nautilus" width="800"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakcute&" alt="dakcute" /></p>
+<!--<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/?username=bytecorum&rank_icon=github&show_icons=true&show=reviews&hide_rank=true&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15&ring_color=608DD9&card_width=370" height="220" style="display:inline-block;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecorum&hide_progress=false&layout=donut&size_weight=0.5&count_weight=0.5&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15&card_width=310" height="220" style="display:inline-block;">
+</p>
+
+<p align='center'><img src="resources/line.svg" width="750" ></p>
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=DragonBurn&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=BIOS&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
+</p>
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=Py-Shield&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=Developers-Life&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
+</p>-->
+
+
+<p align='center'><img src="resources/bottom.svg"></p>
