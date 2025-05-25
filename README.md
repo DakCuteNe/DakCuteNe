@@ -1,14 +1,16 @@
-<p align='center'><img src="resources/top.svg"></p>
+<p align='center'><img src="Dak/resources/top.svg"></p>
 
-<p align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=435&height=35&lines=Welcome+to+my+profile;My+name+is+ByteCorum"></p>
+<p align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=435&height=35&lines=Welcome+to+my+profile;My+name+is+Dak;And+I'm+Newbie+Coder+Developer+Unity"></p>
 
 <p align='center'>
-<a href="https://discordapp.com/users/905779194187882516/"><img src="resources/discord.svg" width="30" height="30" fill="#4493F8"></a>
-<a href="https://github.com/DakCuteNe"><img src="resources/github.svg" width="30" height="30" fill="#4493F8"></a>
+<a href="https://discordapp.com/users/905779194187882516/"><img src="Dak/resources/discord.svg" width="30" height="30" fill="#4493F8"></a>
+<a href="https://github.com/DakCuteNe"><img src="Dak/resources/github.svg" width="30" height="30" fill="#4493F8"></a>
+<a href="https://DakCuteNe.github.io/"><img src="Dak/resources/google.svg" width="30" height="30" fill="#4493F8"></a>
+
 </a>
 </p>
 
-<p align='center'><img src="resources/line.svg" width="750" ></p>
+<p align='center'><img src="Dak/resources/line.svg" width="750" ></p>
 
 <p align='center'><img src="https://github-widgetbox.vercel.app/api/profile?username=dakcutene&data=followers,repositories,stars,commits&theme=nautilus" width="800"></p>
 
@@ -35,4 +37,4 @@
 </p>-->
 
 
-<p align='center'><img src="resources/bottom.svg"></p>
+<p align='center'><img src="Dak/resources/bottom.svg"></p>
