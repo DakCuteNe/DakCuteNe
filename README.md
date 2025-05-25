@@ -1,6 +1,6 @@
 <p align='center'><img src="Dak/resources/top.svg"></p>
 
-<p align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=435&height=35&lines=Welcome+to+my+profile;My+name+is+Dak;And+I'm+Newbie+Coder+Developer+Unity"></p>
+<p align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=435&height=35&lines=Welcome+to+my+profile;My+name+is+Dak;And+I'm+Newbie+Coder+Developer"></p>
 
 <p align='center'>
 <a href="https://discordapp.com/users/905779194187882516/"><img src="Dak/resources/discord.svg" width="30" height="30" fill="#4493F8"></a>
