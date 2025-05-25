@@ -4,16 +4,16 @@
 
 <p align='center'>
 <a href="https://discordapp.com/users/905779194187882516/"><img src="resources/discord.svg" width="30" height="30" fill="#4493F8"></a>
-<a href="https://github.com/DakCuteNe"><img src="resources/github.svg" width="30" height="30" fill="#4493F8"></a>
-<a href="https://bytecorum.github.io/"><img src="resources/google.svg" width="30" height="30" fill="#4493F8"></a>
+<a href="https://github.com/Dak"><img src="resources/github.svg" width="30" height="30" fill="#4493F8"></a>
+<a href="https://Dak.github.io/"><img src="resources/google.svg" width="30" height="30" fill="#4493F8"></a>
 </a>
 </p>
 
 <p align='center'><img src="resources/line.svg" width="750" ></p>
 
-<p align='center'><img src="https://github-widgetbox.vercel.app/api/profile?username=bytecorum&data=followers,repositories,stars,commits&theme=nautilus" width="800"></p>
+<p align='center'><img src="https://github-widgetbox.vercel.app/api/profile?username=dakcutene&data=followers,repositories,stars,commits&theme=nautilus" width="800"></p>
 
-<p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,c,python,js,html,css,bash,json,mysql,powershell,lua,markdown&theme=nautilus" width="800"></p>
+<p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?languages=csharp&theme=nautilus" width="800"></p>
 
 <!--<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/?username=bytecorum&rank_icon=github&show_icons=true&show=reviews&hide_rank=true&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15&ring_color=608DD9&card_width=370" height="220" style="display:inline-block;">
