@@ -15,6 +15,8 @@
 <p align='center'><img src="https://github-widgetbox.vercel.app/api/profile?username=dakcutene&data=followers,repositories,stars,commits&theme=nautilus" width="800"></p>
 
 <p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?languages=csharp&theme=nautilus" width="800"></p>
+<p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?lStill Learning=csharp,cpp&theme=nautilus" width="800"></p>
+
 
 <!--<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/?username=DakCuteNe&rank_icon=github&show_icons=true&show=reviews&hide_rank=true&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15&ring_color=608DD9&card_width=370" height="220" style="display:inline-block;">
